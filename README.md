@@ -1,14 +1,14 @@
 
 
 
-## Welcome to My Page
+## Welcome to Sourangshu's Personal Page
 
    
 
 
 ![](https://raw.githubusercontent.com/SourangshuGhosh/SourangshuGhosh.github.io/master/Pictures/me%20(1).jpg)
 
-I am a fourth year undergraduate student of the department of civil engineering enrolled in its Dual Degree Program in **Indian institute of Technology Kharagpur, West Bengal, India** mostly knows to all as IIT KGP. I am also doing my minors in Mathematics and Computing in its Master of Science program. Apart from these I have been working under various professors of my university in various research projects. I have been mostly collaborating in my research works with Dr. Baidurya Bhattacharya, Professor, Department of Civil Engineering, IIT KGP. The link to his [website](http://www.facweb.iitkgp.ac.in/~baidurya/).
+Hello! My name is Sourangshu Ghosh. I am a fourth year undergraduate student of the department of civil engineering enrolled in its Dual Degree Program in **Indian institute of Technology Kharagpur, West Bengal, India** mostly knows to all as IIT KGP. I am also doing my minors in Mathematics and Computing in its Master of Science program. Apart from these I have been working under various professors of my university in various research projects. I have been mostly collaborating in my research works with Dr. Baidurya Bhattacharya, Professor, Department of Civil Engineering, IIT KGP. The link to his [website](http://www.facweb.iitkgp.ac.in/~baidurya/).
 
 ## **Contact Details**
 
