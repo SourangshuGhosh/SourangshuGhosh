@@ -22,3 +22,4 @@ All of my works are basically scientific computing projects. I mostly interested
 
 ![Sourangshu's github stats](https://github-readme-stats.vercel.app/api?username=SourangshuGhosh&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SourangshuGhosh&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=SourangshuGhosh)
