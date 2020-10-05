@@ -20,6 +20,8 @@ Phone Number: 7063068190
 
 All of my works are basically scientific computing projects. I mostly interested in application of various Stochastic and Probabilistic Methods/Models in Real Life Problems. Apart from that I have also good knowledge in the field of Evolutionary Algorithms and its recent incorporation in Various Machine Learning Algorithms. I mostly do my coding works in Fortran, C/C++/MATLAB and Python. All of my codes are uploaded as Github Repositories. My Github Profile can be seen by clicking here [https://github.com/SourangshuGhosh](https://github.com/SourangshuGhosh) . This website contains all the links to the various repositories/topics and explains how it works and what they are meant for
 
+My Research Gate Profile can be seen [here](https://www.researchgate.net/profile/Sourangshu_Ghosh)
+
 ![Sourangshu's github stats](https://github-readme-stats.vercel.app/api?username=SourangshuGhosh&show_icons=true&count_private=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SourangshuGhosh&count_private=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
