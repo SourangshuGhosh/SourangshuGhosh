@@ -26,3 +26,5 @@ My Research Gate Profile can be seen [here](https://www.researchgate.net/profile
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SourangshuGhosh&count_private=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=SourangshuGhosh)
+
+Besides research in engineering fields, I have a deep love in Mathematics and is always very keen to explore Combinatorical and Number Theory Problems. Some of Preprints are availabe in arxiv as given below
