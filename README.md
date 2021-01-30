@@ -30,4 +30,7 @@ My Research Gate Profile can be seen [here](https://www.researchgate.net/profile
 Besides research in engineering fields, I have a deep love in Mathematics and is always very keen to explore Combinatorical and Number Theory Problems. Some of Preprints are availabe in arxiv as given below
 
 1. Minkowski's Lattice Point Theorem: https://arxiv.org/abs/2010.00245
-2. The Basel Problem : https://arxiv.org/abs/2010.03953
+2. The Basel Problem: https://arxiv.org/abs/2010.03953
+3. Bounds of the Mertens Functions: https://arxiv.org/abs/2012.11756
+4. Sequences and Polynomial Congruences: https://arxiv.org/abs/2012.11373
+5. Collatz Cycles and 3n+c Cycles: https://arxiv.org/abs/2101.04067
