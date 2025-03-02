@@ -8,11 +8,15 @@
 
 ![](https://raw.githubusercontent.com/SourangshuGhosh/SourangshuGhosh.github.io/master/Pictures/me%20(1).jpg)
 
-Hello! My name is Sourangshu Ghosh. I am a fourth year undergraduate student of the department of civil engineering enrolled in its Dual Degree Program in **Indian institute of Technology Kharagpur, West Bengal, India** mostly knows to all as IIT KGP. I am also doing my minors in Mathematics and Computing in its Master of Science program. Apart from these I have been working under various professors of my university in various research projects. I have been mostly collaborating in my research works with Dr. Baidurya Bhattacharya, Professor, Department of Civil Engineering, IIT KGP. The link to his [website](http://www.facweb.iitkgp.ac.in/~baidurya/).
+Hello! My name is Sourangshu Ghosh. I am currently a first-year Ph.D. student at the **Department of Civil Engineering, Indian Institute of Science, Bangalore**. I am doing research in Interfacial Contact Mechanics.
+
+Prior to my doctoral studies in IISc Bangalore, I was a Graduate Research and Teaching Assistant in the **Department of Civil and Environmental Engineering at the University of Illinois Urbana-Champaign**. I was actively involved in research focusing on wildfire propagation and its impact on critical infrastructure. I developed models to predict wildfire behavior and assess potential damage to infrastructure. These models aim to provide real-time predictions to aid in resource management and enhance community resilience against wildfires.
+
+Earlier, I completed a dual degree (B.Tech and M.Tech) in Civil Engineering at the **Indian Institute of Technology Kharagpur**, with a minor in Mathematics and Computing. During my time there, I engaged in various research projects, particularly in structural engineering and applied mathematics. My interests included deep learning, discrete mathematics, number theory, and stochastic modeling.
 
 ## **Contact Details**
 
-Personal Email ID: [sourangshug123@gmail.com](mailto:sourangshug123@gmail.com) Institute Email ID: [sourangshu@iitkgp.ac.in](mailto:sourangshu@iitkgp.ac.in)
+Personal Email ID: [sourangshug123@gmail.com](mailto:sourangshug123@gmail.com) Institute Email ID: [sourangshug@iisc.ac.in](mailto:sourangshug@iisc.ac.in)
 
 Phone Number: 7063068190
 
