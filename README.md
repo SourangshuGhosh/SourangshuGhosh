@@ -8,7 +8,7 @@
 
 ![](https://raw.githubusercontent.com/SourangshuGhosh/SourangshuGhosh.github.io/master/Pictures/me%20(1).jpg)
 
-Hello! My name is Sourangshu Ghosh. I am currently a first-year Ph.D. student at the **Department of Civil Engineering, Indian Institute of Science, Bangalore**. I am doing research in Interfacial Contact Mechanics.
+Hello! My name is Sourangshu Ghosh. I am currently a third-year Ph.D. student at the **Department of Civil Engineering, Indian Institute of Science, Bangalore**. I am doing research in Interfacial Contact Mechanics.
 
 Prior to my doctoral studies in IISc Bangalore, I was a Graduate Research and Teaching Assistant in the **Department of Civil and Environmental Engineering at the University of Illinois Urbana-Champaign**. I was actively involved in research focusing on wildfire propagation and its impact on critical infrastructure. I developed models to predict wildfire behavior and assess potential damage to infrastructure. These models aim to provide real-time predictions to aid in resource management and enhance community resilience against wildfires.
 
